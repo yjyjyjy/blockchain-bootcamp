@@ -27,7 +27,8 @@ Latest commit 2fcf569 on Oct 24, 2017
  History
  1 contributor
 375 lines (297 sloc)  5.54 KB
-   
+
+.secret
 # Created by .ignore support plugin (hsz.mobi)
 ### VisualStudioCode template
 .vscode/*
